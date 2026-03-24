@@ -1,0 +1,7 @@
+{
+  "name": "GreenOffice Procurement Hub",
+  "description": "An office material procurement platform with green product tracking, admin approvals, and Google ecosystem integration simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
